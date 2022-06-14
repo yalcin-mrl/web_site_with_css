@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #282B28;
+    color: white;
+}
+.container{
+    align-items: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    height: 100%;
+}
+ul{
+    list-style: none;
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+ul li{
+    float: left;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+.h2-mod{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.main-area{
+
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+.m-div{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+
+}
+.img-div{
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    border-radius: 10px;
+
+}
+.filmler-icerik-font{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.9em;
+}
+.icerik{
+margin: 10px;
+align-items: center;
+justify-content: center;
+display: block;
+}
